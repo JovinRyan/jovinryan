@@ -11,7 +11,7 @@ Hi! I’m **Jovin Ryan Joseph**, a Senior Chemical Engineering major at Texas A&
 
 You can view or download my unofficial transcript here:
 
-👉 [**Download Unofficial Transcript (PDF)**](transcript_unofficial_JovinJoseph.pdf)  
+👉 [**Download Unofficial Transcript (PDF)**](/files/JRJ_UnofficialTranscript.pdf)  
 **GPA**: 3.957 / 4.000 (as of July 2025)
 
 ---
@@ -22,11 +22,11 @@ You can view or download my unofficial transcript here:
 
 - **Defect Interactions with STGBs in Bi-crystalline FCC Nickel**  
   *Texas A&M Student Research Week, March 2025*  
-  [View Poster (PDF)](link-to-poster.pdf)
+  [View Poster (PDF)](/files/URS_Poster.pdf)
 
 - **Increased Tunability of Nanoporous Graphene by Damage Cascade and its Effect on Pore Quality**  
   *Texas A&M Undergraduate Summer Research Grant, Summer 2023*  
-  [View Poster (PDF)](link-to-poster.pdf)
+  [View Poster (PDF)](/files/USRG_Poster.pdf)
 
 ---
 
