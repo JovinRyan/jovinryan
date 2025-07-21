@@ -59,6 +59,6 @@ You can view or download my unofficial transcript here:
 
 # 📬 Contact
 
-- 📧 **Email**: jovinryanj@tamu.edu | jovinryanj@gmail.com  
+- 📧 **Email**: jovinryanj@tamu.edu, jovinryanj@gmail.com  
 - 🔗 **LinkedIn**: [Jovin Ryan Joseph](https://www.linkedin.com/in/jovinryanjoseph/)  
 - 💻 **GitHub**: [github.com/JovinRyan](https://github.com/JovinRyan)
